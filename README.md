@@ -170,11 +170,6 @@ pip install -r requirements.txt
 - 📧 Email verification
 - 🔐 Password reset workflow
 
----
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) — you are free to use, modify, and distribute with attribution.
 
 ---
 
